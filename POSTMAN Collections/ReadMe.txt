@@ -1,0 +1,1 @@
+In order to use the Mercado Pago Collections examples you should import the .json to POSTMAN
